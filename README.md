@@ -11,7 +11,7 @@ Download Python : https://www.python.org/
 
 Selenium Python Docs : https://selenium-python.readthedocs.io/
 
-Project Repository : https://github.com/akjasim/insta_login
+Project Repository : https://github.com/akjasim/instagram-automation
 
 Other videos : 
 
